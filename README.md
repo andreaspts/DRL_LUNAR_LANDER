@@ -31,5 +31,5 @@ Computations were done using python 3.7. In addition, the following packages wer
 
 The project can be run by starting the Deep_Q_Network.py file. This main file calls the learning agent and the neural network which are saved in `dqn_agent.py` and `model.py`, respectively. Results of the analysis are collected in the `report.md` file.
 
-## License
+### License
 This repository is licensed under the MIT License.
